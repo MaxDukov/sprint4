@@ -1,4 +1,4 @@
-module github.com/Yandex-Practicum/tracker
+module tracker
 
 go 1.24.1
 
